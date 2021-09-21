@@ -1,1 +1,3 @@
 # Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kalyan !!!
+
+I'm a graduate student at University of Leeds doing my masters in Advanced Computer Science. .I'm a self-taught passionate coder and really love to work upon interesting problem. I have a strong backgroung in Algorithms and Data Structures. I'm working towards making my mark on the world. 
